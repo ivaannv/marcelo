@@ -107,3 +107,46 @@ footer{
         margin-right: 0;
     }
 }
+
+
+.trabajos-proceso {
+    color: #fbfddb;
+    font-family: 'Cabin', sans-serif;
+       font-family: 'Comfortaa', cursive;
+       font-family: 'Nunito Sans', sans-serif;
+       font-family: 'Sen', sans-serif;
+}
+
+.trabajos-realizados {
+    color: #fbfddb;
+    font-family: 'Cabin', sans-serif;
+       font-family: 'Comfortaa', cursive;
+       font-family: 'Nunito Sans', sans-serif;
+       font-family: 'Sen', sans-serif;
+}
+
+.carousel{
+    width: 700px; 
+    
+
+}
+@media screen and (max-width:900px){
+    .carousel{
+        width: 350px; 
+        height: 300;
+    }
+}
+
+.carousel-item img{
+    width: 700px;
+    height: 500px;
+}
+
+@media screen and (max-width:900px){
+    .carousel-item img{
+        width: 350px;
+        height: 300px;
+    }
+}
+
+
