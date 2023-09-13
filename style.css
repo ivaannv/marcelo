@@ -18,6 +18,13 @@
     margin-top: 20px;
 }
 
+.primeraparte-index{
+    color: #fbfddb;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Sen', sans-serif;
+}
 
 html{
     height: 100%;
@@ -126,8 +133,7 @@ footer{
 }
 
 .carousel{
-    width: 700px; 
-    
+    width: 1050px; 
 
 }
 @media screen and (max-width:900px){
@@ -138,8 +144,8 @@ footer{
 }
 
 .carousel-item img{
-    width: 700px;
-    height: 500px;
+    width: 1350px;
+    height: 850px;
 }
 
 @media screen and (max-width:900px){
@@ -148,5 +154,8 @@ footer{
         height: 300px;
     }
 }
+
+
+
 
 
