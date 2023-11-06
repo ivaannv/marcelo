@@ -171,3 +171,5 @@ footer{
     transition: transform .2s;
 }
 
+
+:root{--swiper-theme-color: black !important}
