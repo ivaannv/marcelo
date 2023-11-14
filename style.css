@@ -58,7 +58,10 @@ footer{
    color:  #fbfddb;
 }
 
-
+.title-footer{
+    margin-bottom: 0;
+    margin-top: 0;
+}
 .footer{
     width: 100%;
     display: flex;
@@ -67,6 +70,8 @@ footer{
     align-items: center;
 	justify-content: center;
 	column-gap: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .card-title{
