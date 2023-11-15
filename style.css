@@ -9,7 +9,21 @@
     }
 }
 
-.letras-nav.{
+div ul il a{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Sen', sans-serif;
+}
+.a{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Sen', sans-serif;
+}
+.letras-nav{
     font-family: 'Cabin', sans-serif;
     font-family: 'Comfortaa', cursive;
     font-family: 'Nunito Sans', sans-serif;
