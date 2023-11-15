@@ -9,6 +9,12 @@
     }
 }
 
+.letras-nav.{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Sen', sans-serif;
+}
 .bg-navbar{
     background-color: white; 
 }
