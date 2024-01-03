@@ -9,6 +9,26 @@
     }
 }
 
+div ul il a{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Sen', sans-serif;
+}
+.a{
+    color: black;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Sen', sans-serif;
+}
+.letras-nav{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Sen', sans-serif;
+}
 .bg-navbar{
     background-color: white; 
 }
@@ -58,7 +78,10 @@ footer{
    color:  #fbfddb;
 }
 
-
+.title-footer{
+    margin-bottom: 0;
+    margin-top: 0;
+}
 .footer{
     width: 100%;
     display: flex;
@@ -67,6 +90,8 @@ footer{
     align-items: center;
 	justify-content: center;
 	column-gap: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .card-title{
